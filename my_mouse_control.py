@@ -8,3 +8,4 @@ pyautogui.mouseUp(button='left')
 #pyautogui.click(850,1050,button='left')
 
 #测试更新，20181123
+#测试更新2，20181123
